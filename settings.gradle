@@ -1,1 +1,1 @@
-include ':app', ':dbflow_demo'
+include ':app', ':dbflow_demo', ':sqlitehelper_demo'

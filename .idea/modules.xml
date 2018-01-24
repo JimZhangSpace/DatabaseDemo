@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DatabaseDemo.iml" filepath="$PROJECT_DIR$/DatabaseDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/dbflow_demo/dbflow_demo.iml" filepath="$PROJECT_DIR$/dbflow_demo/dbflow_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitehelper_demo/sqlitehelper_demo.iml" filepath="$PROJECT_DIR$/sqlitehelper_demo/sqlitehelper_demo.iml" />
     </modules>
   </component>
 </project>
